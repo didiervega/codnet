@@ -615,39 +615,41 @@ commTS.draw_TSMap(corrDf, corr_measure="r", climate_measure='P')
 commTS.draw_TSMap(corrDf, corr_measure="s", climate_measure='P')
 ```
 
-    Pearson correlation with all-period Codnet constructed with time window month, max.distance 500, neighbors 3
-    Significant communities (p-value < 0.05) with T:
-    	 Communties: [4, 10, 13, 18] for metric <k>
-    	 Communties: [4, 11, 13, 18, 21] for metric n
-    	 Communties: [4, 13, 18] for metric m
+Pearson correlation with all-period Codnet constructed with time window month, max.distance 500, neighbors 3
+
+Significant communities (p-value < 0.05) with T:
+
+     Communties: [4, 10, 13, 18] for metric <k>
+     Communties: [4, 11, 13, 18, 21] for metric n
+     Communties: [4, 13, 18] for metric m
+
+Spearman correlation with all-period Codnet constructed with time window month, max.distance 500, neighbors 3
+
+Significant communities (p-value < 0.05) with T:
+
+     Communties: [4, 10, 13, 18] for metric <k>
+     Communties: [4, 10, 11, 13, 18, 21, 26] for metric n
+     Communties: [4, 10, 13, 18, 21] for metric m
 
 
 ​    
-    Spearman correlation with all-period Codnet constructed with time window month, max.distance 500, neighbors 3
-    Significant communities (p-value < 0.05) with T:
-    	 Communties: [4, 10, 13, 18] for metric <k>
-    	 Communties: [4, 10, 11, 13, 18, 21, 26] for metric n
-    	 Communties: [4, 10, 13, 18, 21] for metric m
+Pearson correlation with all-period Codnet constructed with time window month, max.distance 500, neighbors 3
 
+Significant communities (p-value < 0.05) with P:
 
-​    
-    Pearson correlation with all-period Codnet constructed with time window month, max.distance 500, neighbors 3
-    Significant communities (p-value < 0.05) with P:
-    	 Communties: [17] for metric <k>
-    	 Communties: [17, 23] for metric n
-    	 Communties: [11, 23] for metric m
-
+     Communties: [17] for metric <k>
+     Communties: [17, 23] for metric n
+     Communties: [11, 23] for metric m
 
 ​    
-    Spearman correlation with all-period Codnet constructed with time window month, max.distance 500, neighbors 3
-    Significant communities (p-value < 0.05) with P:
-    	 Communties: [17, 23] for metric <k>
-    	 Communties: [17, 23] for metric n
-    	 Communties: [17, 23] for metric m
+Spearman correlation with all-period Codnet constructed with time window month, max.distance 500, neighbors 3
 
+Significant communities (p-value < 0.05) with P:
 
-​    
-​    
+     Communties: [17, 23] for metric <k>
+     Communties: [17, 23] for metric n
+     Communties: [17, 23] for metric m
+
 
 
 ​    
