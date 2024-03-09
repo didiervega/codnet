@@ -31,6 +31,11 @@ conda install conda-forge::leidenalg
 conda install anaconda::networkx
 ```
 
+After cloning the repository, the first step is to extract the files from the compressed folder **_data.7z_**.
+Then, make sure that you have in the root repository the **data** folder, which contains three files:
++ conf_data.csv
++ gridtemp8914.csv
++ prec_dat.csv
 
 ```python
 import matplotlib.pyplot as plt
