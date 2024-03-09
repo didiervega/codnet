@@ -1,10 +1,3 @@
-```python
-%matplotlib inline
-#%matplotlib notebook
-%reload_ext autoreload
-%autoreload 2
-```
-
 # Measuring Spatiotemporal Civil War Dimensions Using Community-Based Dynamic Network Representation (CoDNet)
 
 ## How to use it and examples 
